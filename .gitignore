@@ -1,0 +1,17 @@
+
+# MacOS
+.DS_Store
+
+# Python
+*.pyc
+__pycache__
+
+# CXX
+build
+
+# source
+*.pt
+*.pth
+videos
+yolov5-6.1
+
